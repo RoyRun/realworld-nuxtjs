@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/layouts",
+    "children": [
+      {
+        "path": "/home",
+        "name": "home",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/home",
+        "_name": "_7e4cf6c5"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/article",
+        "_name": "_5199b950"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/profile",
+        "_name": "_6acf7603"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/editor",
+        "_name": "_192f41d3"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/login",
+        "_name": "_4b8a2a43"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/login",
+        "_name": "_4b8a2a43"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/roy/Desktop/lagou/task/03-03/realworld-nuxtjs/pages/settings",
+        "_name": "_ff4149ee"
+      }
+    ],
+    "_name": "_7ac556e3"
+  }
+]
