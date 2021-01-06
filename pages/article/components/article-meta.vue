@@ -47,7 +47,7 @@
 export default {
     name: 'ArticleMeta',
     props: {
-        article :{
+        article : {
             type: Object,
             required: true
         }
